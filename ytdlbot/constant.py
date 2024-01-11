@@ -24,8 +24,7 @@ from utils import get_func_queue
 class BotText:
     start = """
     Welcome to YouTube Download bot. Type /help for more information. 
-    Backup bot: @benny_2ytdlbot
-    Join https://t.me/+OGRC8tp9-U9mZDZl for updates."""
+    https://t.me/+vn3mXs4wXwhkZjE9 or updates."""
 
     help = f"""
 1. If the bot doesn't work, try again or join https://t.me/+OGRC8tp9-U9mZDZl for updates.
@@ -33,7 +32,7 @@ class BotText:
 2. Source code: https://github.com/tgbot-collection/ytdlbot
     """
 
-    about = "YouTube Downloader by @BennyThink.\n\nOpen source on GitHub: https://github.com/tgbot-collection/ytdlbot"
+    about = "YouTube Downloader by me.\n\nOpen source on GitHub: https://github.com/tgbot-collection/ytdlbot"
 
     buy = f"""
 **Terms:**
@@ -41,7 +40,7 @@ class BotText:
 
 2. You can buy additional download tokens, valid permanently.
 
-3. Refunds are possible, contact me if you need that @BennyThink
+3. Refunds are possible, contact me if you need that 
 
 4. Download for paid user will be automatically changed to Local mode to avoid queuing.
 
